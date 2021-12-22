@@ -3,3 +3,4 @@
 *.mov
 Project/yolov3.weights
 Project/object-detection-opencv-master
+Project/.ipynb_checkpoints
